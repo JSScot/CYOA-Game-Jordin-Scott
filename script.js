@@ -14,7 +14,7 @@ let screen = 0;
 function setup() {
   createCanvas(600, 400);
   textAlign(CENTER);
-  textFont("Rubik Iso")
+  textFont("")
   textSize(20);
   noStroke();
 
