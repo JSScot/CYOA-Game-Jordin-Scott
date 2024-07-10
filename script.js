@@ -86,7 +86,7 @@ function draw() {
 
 function showScreen1(){
   background("skyblue")
-  fill("blue")
+  fill()
   text("Welcome to screen 1. Make your first choice.",width/2,height/2-100)
   enterButton.pos={x:-100,y:-200}
 
